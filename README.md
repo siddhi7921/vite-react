@@ -1,6 +1,7 @@
 # 🌐 Siddhinath Chakraborty – Portfolio
 
-![Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview+Image) 
+![Preview]<img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/62446b0b-3930-4dd9-a465-1fc74a28aaf7" />
+
 ## ✨ Features
 
 - ⚡ **High Performance:** Built with React + TypeScript + Vite for blazing fast load times.
