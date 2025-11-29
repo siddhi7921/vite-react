@@ -3,8 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",           // MUST be this for Vercel
-  build: {
-    outDir: "dist"     // DEFAULT build folder
-  }
+  base: '/vite-react/'  // ⚠️ important: use your repo name here
 })
