@@ -3,7 +3,7 @@ A modern personal portfolio built with React + TypeScript + Vite, designed to sh
 
 🔴 Live Website
 🚀 Visit Portfolio:
-https://your-production-url.vercel.app <!-- Replace this with your production deployment URL -->
+vite-react-eosin-pi-f49y7y6h7a.vercel.app<!-- Replace this with your production deployment URL -->
 
 🖼 Preview
 <img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/3a43c71b-9b21-48ec-b0f1-b730ff082465" />
