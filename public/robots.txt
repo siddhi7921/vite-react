@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vite-react-eosin-pi-f49y7y6h7a.vercel.app/sitemap.xml
