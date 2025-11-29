@@ -1,7 +1,8 @@
 🌐 Siddhinath Chakraborty – Portfolio
 A modern personal portfolio built with React + TypeScript + Vite, designed to showcase my projects, skills, and achievements as a CSE (AI & ML) student at RCCIIT Kolkata.
 
-🔴 [Live Demo](https://vite-react-git-main-siddhinath-chakraborty-s-projects-4a0e79f7.vercel.app/)
+🔴 [Live Demo](https://vite-react-siddhinath.vercel.app/)
+
 <!-- Replace this with your production deployment URL -->
 
 🖼 Preview
