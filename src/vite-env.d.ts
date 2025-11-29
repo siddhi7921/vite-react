@@ -1,1 +1,2 @@
-/// <reference types="vite/client" />
+import.meta.env
+import svg from './logo.svg'
