@@ -25,6 +25,7 @@
 - Projects showcase section  
 - About me section with skills and interests  
 - Social media links (GitHub, LinkedIn, Instagram)
+
 <img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/bb1a1ac3-6d0c-47f4-911b-b6fd42601690" />
 
 ---
