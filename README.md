@@ -1,21 +1,30 @@
-# React + TypeScript + Vite
+# Siddhinath Chakraborty Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio built with **React + TypeScript + Vite**.  
+It showcases my skills, projects, and contact information.  
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Live Demo
 
-## Deploy Your Own
+Check out the live site here:  
+[https://vite-react-11vcbij4b-siddhinath-chakraborty-s-projects-4a0e79f7.vercel.app](https://vite-react-11vcbij4b-siddhinath-chakraborty-s-projects-4a0e79f7.vercel.app)
 
-Deploy your own Vite project with Vercel.
+## Features
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+- Responsive design using **Tailwind CSS**
+- Contact form integrated with **Formspree**
+- Projects showcase section
+- About me section with skills and interests
+- Social media links (GitHub, LinkedIn, Instagram)
 
-_Live Example: https://vite-react-example.vercel.app_
+## Getting Started
 
-### Deploying From Your Terminal
+1. Clone the repository:
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+```bash
+git clone https://github.com/siddhi7921/vite-react.git
+Author: Siddhinath Chakraborty
+Email: siddhinathchakraborty@gmail.com
+Phone: +91 75860 89492
 
-```shell
-$ vercel
-```
+yaml
+Copy code
