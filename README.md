@@ -1,6 +1,6 @@
 # 🌐 Siddhinath Chakraborty – Portfolio
 
-![Preview]<img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/62446b0b-3930-4dd9-a465-1fc74a28aaf7" />
+<img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/62446b0b-3930-4dd9-a465-1fc74a28aaf7" />
 
 ## ✨ Features
 
