@@ -1,37 +1,65 @@
-# Siddhinath Chakraborty Portfolio
+🌐 Siddhinath Chakraborty – Portfolio
+A modern personal portfolio built with React + TypeScript + Vite, designed to showcase my projects, skills, and achievements as a CSE (AI & ML) student at RCCIIT Kolkata.
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Siddhinath Chakraborty" width="150" style="border-radius:50%;"/>
-</p>
+🔴 Live Website
+🚀 Visit Portfolio:
+https://your-production-url.vercel.app <!-- Replace this with your production deployment URL -->
 
-<p align="center">
-  <a href="https://vite-react-11vcbij4b-siddhinath-chakraborty-s-projects-4a0e79f7.vercel.app" target="_blank">🌐 Live Demo</a> • 
-  <a href="mailto:siddhinathchakraborty@gmail.com">📧 Email Me</a>
-</p>
+🖼 Preview
+<img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/3a43c71b-9b21-48ec-b0f1-b730ff082465" />
 
-<p align="center">
-  <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
----
+✨ Features
+⚡ Built with React + TypeScript + Vite
 
-## ✨ Features
-- Responsive design using **Tailwind CSS**  
-- Contact form integrated with **Formspree**  
-- Projects showcase section  
-- About me section with skills and interests  
-- Social media links (GitHub, LinkedIn, Instagram)
+🎨 Styled using Tailwind CSS
 
-<img width="901" height="913" alt="Screenshot 2025-04-05 123731" src="https://github.com/user-attachments/assets/bb1a1ac3-6d0c-47f4-911b-b6fd42601690" />
+📱 Fully responsive design
 
----
+📬 Contact form integrated with Formspree
 
-## 🚀 Getting Started
+🧠 About Me section with skills & interests
 
-### Clone the repository
-```bash
+💼 Projects showcase section
+
+🔗 Social links: GitHub, LinkedIn, Instagram
+
+🔍 SEO ready: sitemap.xml + Google site verification
+
+🛠 Tech Stack
+Frontend: React, TypeScript, Tailwind CSS
+
+Build Tool: Vite
+
+Deployment: Vercel
+
+Version Control: Git & GitHub
+
+🚀 Getting Started
+Clone the repository:
+
+bash
+Copy code
 git clone https://github.com/siddhi7921/vite-react.git
+cd vite-react
+npm install
+npm run dev
+Build for production:
+
+bash
+Copy code
+npm run build
+npm run preview
+👤 Author
+Siddhinath Chakraborty
+📍 Kolkata, India
+📧 Email: siddhinathchakraborty@gmail.com
+📱 Phone: +91 75860 89492
+🔗 GitHub: https://github.com/siddhi7921
+
+🛡 Security Policy
+If you find a vulnerability, report it privately to:
+📧 siddhinathchakraborty@gmail.com
+
+📜 License
+This project is open-source and available under the MIT License.
