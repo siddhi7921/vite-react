@@ -1,4 +1,4 @@
-
+import React from "react";
 
 function App() {
   return (
@@ -37,7 +37,7 @@ function App() {
               and creating visual content.
             </p>
 
-            <div className="mt-6 flex space-x-3">
+            <div className="mt-6 flex flex-wrap gap-3">
               <a
                 href="#projects"
                 className="inline-block px-5 py-3 bg-indigo-600 text-white rounded-lg shadow hover:opacity-95"
@@ -52,9 +52,13 @@ function App() {
               </a>
             </div>
 
-            <div className="mt-6 text-sm text-gray-600">
-              <p>Phone: <a href="tel:+917586089492" className="hover:underline">+91 75860 89492</a></p>
-              <p>Email: <a href="mailto:siddhinathchakraborty@gmail.com" className="hover:underline">siddhinathchakraborty@gmail.com</a></p>
+            <div className="mt-6 text-sm text-gray-600 space-y-1">
+              <p>
+                Phone: <a href="tel:+917586089492" className="hover:underline">+91 75860 89492</a>
+              </p>
+              <p>
+                Email: <a href="mailto:siddhinathchakraborty@gmail.com" className="hover:underline">siddhinathchakraborty@gmail.com</a>
+              </p>
             </div>
           </div>
 
@@ -132,20 +136,31 @@ function App() {
           <form
             className="mt-4 grid sm:grid-cols-2 gap-4"
             onSubmit={(e) => {
-              e.preventDefault();
-              alert("Form not connected. Use Formspree or EmailJS.");
+              e.preventDefault()
+              alert("Form not connected. Use Formspree or EmailJS.")
             }}
           >
-            <input placeholder="Your name" className="p-3 border rounded" />
-            <input placeholder="Your email" className="p-3 border rounded" />
+            <input
+              type="text"
+              placeholder="Your name"
+              className="p-3 border rounded"
+              required
+            />
+            <input
+              type="email"
+              placeholder="Your email"
+              className="p-3 border rounded"
+              required
+            />
             <textarea
               placeholder="Message"
               className="p-3 border rounded sm:col-span-2"
               rows={4}
+              required
             ></textarea>
             <button
               type="submit"
-              className="sm:col-span-2 px-4 py-3 bg-indigo-600 text-white rounded"
+              className="sm:col-span-2 px-4 py-3 bg-indigo-600 text-white rounded hover:opacity-95"
             >
               Send message
             </button>
@@ -159,7 +174,7 @@ function App() {
         </div>
       </footer>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
