@@ -1,20 +1,17 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  
-  // ⚠️ Important for GitHub Pages
-  base: '/vite-react/',
 
-  // Optional: Customize server for local dev
+  // Important for Vercel deployments
+  base: './',
+
   server: {
-    port: 5173,        // default Vite port
-    open: true         // opens browser automatically
+    port: 5173,
+    open: true
   },
 
-  // Optional: Build settings
   build: {
     outDir: 'dist',
     sourcemap: false
