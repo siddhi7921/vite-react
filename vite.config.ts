@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  // Important for Vercel deployments
-  base: './',
+  // FIX: Use root base for Vercel
+  base: '/',
 
   server: {
     port: 5173,
@@ -17,3 +17,4 @@ export default defineConfig({
     sourcemap: false
   }
 })
+
