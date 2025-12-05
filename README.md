@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo
 
-Check the live portfolio here: 🌐 [Siddhinath Portfolio](https://vite-react-eosin-pi-f49y7y6h7a.vercel.app/)
+Check the live portfolio here: 🌐 [Siddhinath Portfolio](https://app-80thhauyjvgh.appmedo.com/)
 
 ---
 
