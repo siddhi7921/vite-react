@@ -8,7 +8,7 @@
   <a href="https://app-80thhauyjvgh.appmedo.com/">
     <img src="https://img.shields.io/badge/Live-Demo-4caf50?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/siddhi7921/vite-react">
+  <a href="https://app-80thhauyjvgh.appmedo.com/">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
 </p>
