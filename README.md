@@ -49,7 +49,7 @@ Check the live portfolio here: 🌐 [Siddhinath Portfolio](https://app-80thhauyj
 
 ```bash
 # Clone the repository
-git clone https://github.com/siddhi7921/vite-react.git
+git clone :- https://app-80thhauyjvgh.appmedo.com/
 cd vite-react
 
 # Install dependencies
