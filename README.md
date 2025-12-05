@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/62446b0b-3930-4dd9-a465-1fc74a28aaf7" alt="Portfolio Screenshot" width="300"/>
 </p>
 
-<h1 align="center">🌐 Siddhinath Chakraborty – Portfolio</h1>
+
 
 <p align="center">
   <a href="https://app-80thhauyjvgh.appmedo.com/">
