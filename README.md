@@ -5,7 +5,7 @@
 <h1 align="center">🌐 Siddhinath Chakraborty – Portfolio</h1>
 
 <p align="center">
-  <a href="https://vite-react-eosin-pi-f49y7y6h7a.vercel.app/">
+  <a href="https://app-80thhauyjvgh.appmedo.com/">
     <img src="https://img.shields.io/badge/Live-Demo-4caf50?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/siddhi7921/vite-react">
